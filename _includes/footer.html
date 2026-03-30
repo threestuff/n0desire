@@ -1,0 +1,37 @@
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+      <ul class="contact-list">
+        {%- if site.email -%}
+        <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {%- endif -%}
+        <li class="p-name">
+<a style="color: #313fff;" href="/support-us/">Support Us</a>
+        </li>
+      </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        
+<a href="https://www.youtube.com/@n0desire" style="color: red;"><i class="fa fa-youtube-play" style="font-size:24px;color:red"></i></a>
+       
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p style="color: black;">{{- site.description | escape -}}</p>
+      </div>
+
+    </div>
+
+  </div>
+
+  
+
+</footer>
