@@ -4,12 +4,8 @@ title: Support Us
 permalink: /support-us/
 ---
 
-<h1>Support Our Work</h1>
+<h1>n0desire is a self-funded project. To support us please donate!</h1>
 
-<p>n0desire</p>
-
-<form action="https://www.paypal.com/donate" method="post" target="_blank">
+<form action="#" method="post" target="_blank">
     <button type="submit">Donate with PayPal</button>
 </form>
-
-<p>Thank you for your support!</p>

@@ -4,6 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus corporis voluptatem distinctio. Tenetur eveniet quae atque quia sapiente vel dicta delectus autem veritatis libero laborum cum, dolore neque quaerat illum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus corporis voluptatem distinctio. Tenetur eveniet quae atque quia sapiente vel dicta delectus autem veritatis libero laborum cum, dolore neque quaerat illum.
+## n0desire is a personal project to inspire and get human beings listening to and creating music.
